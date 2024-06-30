@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camelot.Api", "Camelot.Api\Camelot.Api.csproj", "{3FBD0818-5812-49A9-A37A-BD914D9E2219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camelot.Api.Tests", "Camelot.Api.Tests\Camelot.Api.Tests.csproj", "{850C263B-8CDE-4B10-995C-4B93A1DA67E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBD0818-5812-49A9-A37A-BD914D9E2219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBD0818-5812-49A9-A37A-BD914D9E2219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBD0818-5812-49A9-A37A-BD914D9E2219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBD0818-5812-49A9-A37A-BD914D9E2219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850C263B-8CDE-4B10-995C-4B93A1DA67E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850C263B-8CDE-4B10-995C-4B93A1DA67E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850C263B-8CDE-4B10-995C-4B93A1DA67E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850C263B-8CDE-4B10-995C-4B93A1DA67E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7F57F8-54E5-40E9-AF29-4AD21A93085F}
+	EndGlobalSection
+EndGlobal
